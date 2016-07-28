@@ -237,10 +237,6 @@
 			"Rev": "a14192a58a694c123d8fe5481d4a4727d6ae82f3"
 		},
 		{
-			"ImportPath": "github.com/hashicorp/raft",
-			"Rev": "057b893fd996696719e98b6c44649ea14968c811"
-		},
-		{
 			"ImportPath": "github.com/hashicorp/raft-boltdb",
 			"Rev": "d1e82c1ec3f15ee991f7cc7ffd5b67ff6f5bbaee"
 		},
